@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: profile_pic.jpg
+  image: profile_pic.png
   address:
 
 news: false  # includes a list of news items
