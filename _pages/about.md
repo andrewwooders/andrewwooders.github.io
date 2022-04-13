@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a fourth year undergraduate at The University of Chicago majoring in mathematics and economics with a specialization in data science. I have formerly worked at [The Federal Reserve Board of Governors](https://www.federalreserve.gov/), [Pluribus Labs LLC](https://pluribuslabs.com), and [MobLab Inc](https://www.moblab.com/).
+I am currently a fourth year undergraduate at The University of Chicago majoring in mathematics and economics with a specialization in data science. I have formerly worked at [The Federal Reserve Board of Governors](https://www.federalreserve.gov/), [Pluribus Labs LLC](https://pluribuslabs.com), and [MobLab Inc](https://www.moblab.com/). I will be starting my PhD in Quantitative Marketing at the Kellogg School of Management in the fall of 2022.
 
 **Research**
 
